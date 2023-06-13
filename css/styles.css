@@ -1,4 +1,9 @@
 
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #2E2F42;
+}
+
 /**
   |============================
   | Header styles
@@ -8,7 +13,7 @@
 
 .header-nav {}
 
-.heder-logo {}
+.header-logo {}
 
 .header-list {}
 
@@ -16,8 +21,89 @@
 
 .header-link {}
 
-.address-list {}
+.header-address {}
 
-.address-item {}
+.header-address-list {}
 
-.address-link {}
+.header-address-item {}
+
+.header-address-link {}
+
+/**
+  |============================
+  | Hero styles
+  |============================
+*/
+.section {}
+
+.hero {}
+
+.hero-title {}
+
+.hero-btn {}
+
+/**
+  |============================
+  | Feautures styles
+  |============================
+*/
+.section {}
+
+.feautures {}
+
+.feautures-list {}
+
+.feautures-item {}
+
+.feautures-title {}
+
+.feautures-prgrph {}
+
+/**
+  |============================
+  | Webstudio styles
+  |============================
+*/
+.section {}
+
+.webstudio {}
+
+.sebstudio-title {}
+
+.wsbstudio-list {}
+
+.webstudio-item {}
+
+.webstudio-image {}
+
+/**
+  |============================
+  | Team styles
+  |============================
+*/
+.section {}
+
+.team {}
+
+.team-title {}
+
+.team-list {}
+
+.team-item {}
+
+.team-image {}
+
+.designers-team-title {}
+
+.team-prgrph {}
+
+/**
+  |============================
+  | Footer styles
+  |============================
+*/
+.footer {}
+
+.footer-logo {}
+
+.footer-prgrph {}
