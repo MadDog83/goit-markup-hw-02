@@ -41,6 +41,7 @@ button {
 
 .logo {
     font-family: "Raleway",sans-serif;
+    color: #4D5AE5;
     font-weight: 800;
     font-size: 18px;
     line-height: 1.17;
@@ -49,9 +50,6 @@ button {
   
 }
 
-.web {
-    color: #4D5AE5;
-}
 
 .studio-dark {
     color: #2E2F42;
