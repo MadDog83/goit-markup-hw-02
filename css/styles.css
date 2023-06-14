@@ -1,6 +1,6 @@
 
 .body {
-      font-family: 'Roboto', 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
   }
 
 /**
@@ -73,9 +73,7 @@ a {
 }
 
 .header-link:hover,
-.header-link:focus,
-.adress-link:hover,
-.adress-link:focus {
+.header-link:focus {
     color: #404BBF;
 }
 .header-address {
@@ -91,6 +89,10 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
+}
+.adress-link:hover,
+.adress-link:focus {
+    color: #404BBF;
 }
 
 /**
