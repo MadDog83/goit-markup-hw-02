@@ -42,7 +42,7 @@ a {
   |============================
 */
 .header {
-    background-color: var(--page-color);
+    background-color: #ffffff;
 }
 
 .header-nav {}
@@ -166,7 +166,8 @@ a {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #4D5AE5;
-    background-color: var(--title-background);
+    background-color: #F4F4FD;
+  }
 
 .filter-button:hover,
 .filter-button:focus {
@@ -327,5 +328,5 @@ a {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: var(--title-background);
+    color: #F4F4FD;
 }
