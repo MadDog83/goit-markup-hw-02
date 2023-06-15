@@ -6,10 +6,10 @@ body {
   }
 
 :root {
- --page-color: #ffffff;
- --logo-color: #4D5AE5;
- --hero-background: #2E2F42;
- --logo-background-light: #f4f4fd;
+  --page-color: #ffffff;
+  --logo-color: #4D5AE5;
+  --hero-background: #2E2F42;
+  --logo-background-light: #f4f4fd;
  }
 /**
   |============================
