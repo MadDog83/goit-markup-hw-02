@@ -53,8 +53,7 @@ a {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-  
-}
+  }
 
 .studio-dark {
     color: #2E2F42;
@@ -77,12 +76,12 @@ a {
     color: #2E2F42;
 }
 
-.link {
+.header-link {
     color:#2e2f42;
 }
 
-.link:hover,
-.link:focus {
+.header-link:hover,
+.header-link:focus {
     color: #404BBF;
 }
 .address {
