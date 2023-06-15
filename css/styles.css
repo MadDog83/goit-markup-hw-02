@@ -113,7 +113,7 @@ a {
 .section {}
 
 .hero {
-    background-color: #2E2F42;
+    background-color: var(--hero-background);
 }
 
 .hero-title {
@@ -239,10 +239,12 @@ a {
   |============================
 */
 .section {
-  background-color: #F4F4FD;
+  
 }
 
-.team {}
+.team {
+
+}
 
 .team-title {
     font-family: "Roboto",sans-serif;
