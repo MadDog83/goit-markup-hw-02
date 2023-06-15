@@ -19,7 +19,7 @@ a {
   --page-color: #ffffff;
   --logo-color: #4D5AE5;
   --hero-background: #2E2F42;
-  --logo-background-light: #f4f4fd;
+  --title-background: #f4f4fd;
  }
 /**
   |============================
@@ -224,7 +224,7 @@ a {
     text-align: center;
     text-transform: capitalize;
     color: #2E2F42;
-    background-color: #F4F4FD;
+    background-color: var(--title-background);
 }
 
 .webstudio-list {}
