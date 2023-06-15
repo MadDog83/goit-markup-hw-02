@@ -258,7 +258,9 @@ a {
     background-color: #F4F4FD;
 }
 
-.team-list {}
+.team-list {
+    background-color: #FFFFFF
+}
 
 .team-item {}
 
