@@ -27,7 +27,7 @@ a {
  }
     
   button {
-    font-family: "Roboto";
+    font-family: "Roboto" sans-serif;
     cursor: pointer;
   }
 .list {
@@ -70,7 +70,7 @@ a {
 }
 
 .header-item {
-    font-family: 'Roboto';
+    font-family: "Roboto" sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -117,9 +117,10 @@ a {
 }
 
 .hero-title {
-    font-family: 'Roboto';
+    font-family: "Roboto" sans-serif;
     font-weight: 700;
     font-size: 56px;
+    text-align: center;
     line-height: 1.07;
     letter-spacing: 0.02em;
     color: #FFFFFF;
@@ -127,7 +128,7 @@ a {
 
 .hero-btn {
     background: #4D5AE5;
-    font-family: 'Roboto';
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
