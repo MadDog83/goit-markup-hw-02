@@ -224,6 +224,7 @@ a {
     text-align: center;
     text-transform: capitalize;
     color: #2E2F42;
+    background-color: #F4F4FD
 }
 
 .webstudio-list {}
@@ -265,6 +266,7 @@ a {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2E2F42;
+    background-color: #FFFFFF
   }
 
 .team-prgrph {
