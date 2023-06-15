@@ -238,7 +238,9 @@ a {
   | Team styles
   |============================
 */
-.section {}
+.section {
+  background-color: #F4F4FD;
+}
 
 .team {}
 
@@ -303,7 +305,7 @@ a {
 }
 
 .project-par {
-    font-family: 'Roboto';
+    font-family: "Roboto",sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
