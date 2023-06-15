@@ -77,12 +77,12 @@ a {
     color: #2E2F42;
 }
 
-.header-link {
+.link {
     color:#2e2f42;
 }
 
-.header-link:hover,
-.header-link:focus {
+.link:hover,
+.link:focus {
     color: #404BBF;
 }
 .address {
