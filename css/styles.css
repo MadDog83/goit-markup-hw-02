@@ -5,6 +5,16 @@ body {
     background-color: #FFFFFF;
   }
 
+button {
+    font-family: "Roboto" sans-serif;
+    cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+  color: currentColor;
+}
+
 :root {
   --page-color: #ffffff;
   --logo-color: #4D5AE5;
@@ -17,19 +27,11 @@ body {
   |============================
 */
 
-a {
-    text-decoration: none;
-    color: currentColor;
-}
-
 .link {
    text-decoration: none;
  }
     
-  button {
-    font-family: "Roboto" sans-serif;
-    cursor: pointer;
-  }
+
 .list {
     list-style: none;
 }
